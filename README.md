@@ -1,5 +1,4 @@
-# Hello World Example
+# esp8266Learning
+学习esp8266编写的程序
 
-Starts a FreeRTOS task to print "Hello World"
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
+使用到esp8266 rtos sdk v3.4作为开发套件
